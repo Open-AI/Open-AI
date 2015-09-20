@@ -34,5 +34,5 @@ There are rules :
 * The code is in English
 * Code have to be self commented
 
-# Crédits
+# Credits
 Alexis Paques (@AlexisTM)
