@@ -24,6 +24,8 @@ Obviously, I am not a philosopher, I have one way to think and you can share you
 * ( ) NodeJS
 * ( ) Java
 * ( ) Lisp
+* ( ) Rust
+* ( ) Julia
 
 # Project standards
 
